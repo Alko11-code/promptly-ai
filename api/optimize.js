@@ -33,7 +33,7 @@ function checkRateLimit(ip) {
 const ALLOWED_ORIGINS = [
   "http://localhost:3000",
   "http://localhost:5173",
-  "https://sharpprompt.vercel.app", // ← Update with your real Vercel URL after deploy
+  "https://promptly-ai-nine.vercel.app/", // ← Update with your real Vercel URL after deploy
 ];
 
 // ─── Whitelists ─────────────────────────────────────────────────────────────
