@@ -1,0 +1,12 @@
+test-results/
+playwright-report/
+playwright/.cache/
+.playwright/
+e2e/
+*.test.js
+src/test/
+api/__tests__/
+node_modules/
+.vercel/
+.git/
+coverage/
