@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-1. Visit the live app: **https://Promptly.vercel.app**
+1. Visit the live app: **https://promptly-ai-nine.vercel.app/**
 2. Add your API key (free from any provider below)
 3. Start optimizing!
 
